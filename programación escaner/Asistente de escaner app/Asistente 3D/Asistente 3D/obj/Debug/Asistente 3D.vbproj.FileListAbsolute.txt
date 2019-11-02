@@ -1,0 +1,15 @@
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\bin\Debug\Asistente 3D.exe.config
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\bin\Debug\Asistente 3D.exe
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\bin\Debug\Asistente 3D.pdb
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\bin\Debug\Asistente 3D.xml
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.vbprojAssemblyReference.cache
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente_3D.Form1.resources
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente_3D.Resources.resources
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.vbproj.GenerateResource.cache
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.vbproj.CoreCompileInputs.cache
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.exe
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.xml
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente 3D.pdb
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente_3D.FRLuz.resources
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente_3D.Form3.resources
+C:\Escaner 3D\programación escaner\Asistente de escaner app\Asistente 3D\Asistente 3D\obj\Debug\Asistente_3D.Form4.resources
