@@ -24,4 +24,8 @@
     Private Sub TBLuz_Scroll(sender As Object, e As EventArgs) Handles TBLuz.Scroll
         SPEscaner.Write(TBLuz.Value)
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Form3.Show()
+    End Sub
 End Class

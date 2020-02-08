@@ -36,7 +36,7 @@ Partial Class Form3
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.BackColor = System.Drawing.Color.LimeGreen
+        Me.Label2.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.Label2.Location = New System.Drawing.Point(314, 104)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(70, 13)

@@ -85,7 +85,7 @@ Partial Class FRLuz
         '
         Me.TBLuz.Cursor = System.Windows.Forms.Cursors.Hand
         Me.TBLuz.LargeChange = 10
-        Me.TBLuz.Location = New System.Drawing.Point(125, 88)
+        Me.TBLuz.Location = New System.Drawing.Point(142, 88)
         Me.TBLuz.Maximum = 255
         Me.TBLuz.Name = "TBLuz"
         Me.TBLuz.Size = New System.Drawing.Size(267, 45)

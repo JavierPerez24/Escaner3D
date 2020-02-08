@@ -1,0 +1,195 @@
+\begin{thebibliography}{}
+
+\bibitem[Alfaro, 2002]{Alfaro2002}
+Alfaro, V.~M. (2002).
+\newblock Métodos de sintonización de controladores {PID} que operan como
+  reguladores.
+\newblock {\em Ingenier{\'i}a}, 12(1,2):21--36.
+
+\bibitem[Alzate and Oliveira, 2016]{Alzate2016}
+Alzate, R. and Oliveira, V.~A. (2016).
+\newblock Multiobjective design of {PI} controllers with applications.
+\newblock {\em Control Applications {(CCA)}, {IEEE} Conference on}, pages
+  203--214.
+
+\bibitem[Astrom and Hagglund, 1995]{Astrom1995}
+Astrom, K. and Hagglund, T. (1995).
+\newblock {\em {PID} Controllers: Theory, Design, and Tuning}.
+\newblock {ISA: T}he Instrumentation, Systems, and Automation Society.
+
+\bibitem[Chapra and Canale, 2007]{chapra2003metodos}
+Chapra, S.~C. and Canale, R.~P. (2007).
+\newblock {\em M{\'e}todos Num{\'e}ricos para Ingenieros}.
+\newblock Mc-Graw Hill.
+
+\bibitem[Correa et~al., 2008]{Correa2008}
+Correa, R., Villamizar, R., and Quiroz, J. (2008).
+\newblock {\em De La Sintonizaci{\'o}n De Controladores}.
+\newblock Divisi{\'o}n de Publicaciones {UIS}.
+
+\bibitem[Data and Bhattacharyya, 2000]{Datta2000}
+Data, A. and Bhattacharyya, S.~P. (2000).
+\newblock {\em Structure and synthesis of {PID} controllers}.
+\newblock Springer.
+
+\bibitem[Díaz, 2017]{Diaz2017}
+Díaz, I. (2017).
+\newblock {\em Modern design of classical controllers}.
+\newblock PhD thesis, Texas {A{\&}M} University, USA.
+
+\bibitem[Díaz and Bhattacharyya, 2016]{Diaz2016}
+Díaz, I. and Bhattacharyya, S.~P. (2016).
+\newblock {PI} controller design in the achievable gain-phase margin plane.
+\newblock In {\em Decision and Control {(CDC)}, 2016 {IEEE} 55th Conference
+  on}, pages 4919--4924.
+
+\bibitem[Elizondo et~al., 2013]{Elizondo2013}
+Elizondo, C., López, M., and Posadas, C. (2013).
+\newblock Conjunto de controladores {PID} para sistemas {LTI} con incertidumbre
+  param{\'e}trica.
+\newblock In {\em Congreso Nacional de Control Autom{\'a}tico {AMCA}, 2013
+  M{\'e}xico}, pages 797--801.
+
+\bibitem[Farkh et~al., 2014]{Farkh2014}
+Farkh, R., Laabidi, K., and Ksouri, M. (2014).
+\newblock Stabilizing sets of {PI/PID} controllers for unstable second order
+  delay system.
+\newblock {\em International Journal of Automation and Computing},
+  11(9):210--222.
+
+\bibitem[Fernandez~da Silva, 2008]{fernandes2008}
+Fernandez~da Silva, A. (2008).
+\newblock Obten{\c{c}}ao de conjuntos estabilizantes de controladores {PID}
+  para sistemas com atraso utilizando o teorema de {Hermite-Biehler}.
+\newblock Tesis de maestr{\'i}a (magister en ingenier{\'i}a el{\'e}ctrica),
+  Universidad de S{\~a}o Paulo, Brasil.
+
+\bibitem[Fung et~al., 1998]{Fung1998}
+Fung, H.~W., Wang, Q.~G., and Lee, T.~H. (1998).
+\newblock {PI} tuning in terms of gain and phase margin.
+\newblock {\em Autom{\'a}tica}, 34(9):1145--1149.
+
+\bibitem[Grossman, 1993]{stanley1993algebra}
+Grossman, S.~I. (1993).
+\newblock {\em Algebra Lineal con aplicaciones}.
+\newblock McGraw-Hill.
+
+\bibitem[Gupte et~al., 2012]{reviewieee}
+Gupte, S., Mohandas, P., and Conrad, J.~M. (2012).
+\newblock A survey of quadrotor unmanned aerial vehicles.
+\newblock In {\em Southeastcon, 2012 Proceedings of IEEE}, pages 1--6.
+
+\bibitem[Ho et~al., 1999]{Datta1999}
+Ho, M., Datta, A., and Bhattacharyya, S.~P. (1999).
+\newblock Generalizations of the {Hermite-Biehler} theorem.
+\newblock {\em Linear Algebra and its Applications}, 302-303:135--153.
+
+\bibitem[Ho et~al., 1995]{Hang1992}
+Ho, W., Hang, C., and Cao, L. (1995).
+\newblock Tuning of {PI} controller based on gain and phase margin
+  specifications.
+\newblock {\em Automatica}, 31(3):497--502.
+
+\bibitem[Keel and Bhattacharyya, 1994]{Bhattachar1994}
+Keel, L.~H. and Bhattacharyya, S.~P. (1994).
+\newblock Robust control: The parametric approach.
+\newblock {\em {IFAC} Proceedings Volumes}, 27:49--52.
+
+\bibitem[Keel and Bhattacharyya, 1997]{Bhatt97}
+Keel, L.~H. and Bhattacharyya, S.~P. (1997).
+\newblock Robust, fragile or optimal?
+\newblock {\em {IEEE} Transactions on Automatic Control}, 42(8):1098--1105.
+
+\bibitem[Keel and Bhattacharyya, 2008]{keel2008}
+Keel, L.~H. and Bhattacharyya, S.~P. (2008).
+\newblock Controller synthesis free of analytical models: Three term
+  controllers.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 53(6):1353–136.
+
+\bibitem[Loera et~al., 2014]{Loera2014}
+Loera, R., Melchor, R., and Morales, D. (2014).
+\newblock An{\'a}lisis de estabilidad de controladores {PI} para un regulador
+  conmutado boost.
+\newblock In {\em Congreso Latinoamericano de Control Autom{\'a}tico {CLCA},
+  2014 {M}{\'e}xico}, pages 1465--1470.
+
+\bibitem[Luukkonen, 2011]{luukkonen2011modelling}
+Luukkonen, T. (2011).
+\newblock Modelling and control of quadcopter.
+\newblock Independent research project in applied mathematics, Aalto
+  University, Finland.
+
+\bibitem[Méndez et~al., 2008]{Mendez2008}
+Méndez, C., Niculescu, S., Morarescu, C., and Gu, K. (2008).
+\newblock On the fragility of {PI} controllers for time-delay {SISO} systems.
+\newblock In {\em Mediterranean Conference on control and automation}, pages
+  529--534.
+
+\bibitem[Morarescu et~al., 2010]{Morarescu2010}
+Morarescu, I.~C., Niculescu, S.~I., and Gu, K. (2010).
+\newblock The geometry of stability crossing curves of {PI} controllers for
+  {SISO} systems {I/O} delays.
+\newblock {\em Romanian Journal of Pure and Applied Mathematics},
+  55(4):297--313.
+
+\bibitem[Ogata, 2010]{ogata2010}
+Ogata, K. (2010).
+\newblock {\em Ingenier{\'i}a de control Moderna}.
+\newblock Pearson Education.
+
+\bibitem[Oliveira et~al., 2003]{Oliveira2003}
+Oliveira, V., Teixeira, M., and Cossi, L. (2003).
+\newblock Stabilizing a class of time delay systems using the {Hermite-Biehler}
+  theorem.
+\newblock {\em Linear Algebra and its Applications}, 369:203--216.
+
+\bibitem[Roa~Cano, 2016]{roa_ayala2016}
+Roa~Cano, Gustavo y Ayala~Ortíz, A.~S. (2016).
+\newblock Control en espacio de estados para un dron tipo cuadrotor.
+\newblock Trabajo de grado (ingeniero electr{\'o}nico), Universidad Industrial
+  de Santander, Bucaramanga - Colombia.
+
+\bibitem[Safonov and Tsao, 1997]{Safonov1997}
+Safonov, M.~G. and Tsao, T.-C. (1997).
+\newblock The unfalsified control concept and learning.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 42(6):843--847.
+
+\bibitem[Sears et~al., 2005]{sears2005fisica}
+Sears, F.~W., Ford, A.~L., and Freedman, R.~A. (2005).
+\newblock {\em F{\'\i}sica universitaria: con f{\'\i}sica moderna}, volume~2.
+\newblock Pearson Educaci{\'o}n.
+
+\bibitem[Silva et~al., 2002]{silva2002}
+Silva, G., Datta, A., and Bhattacharyya, S.~P. (2002).
+\newblock New results on the synthesis of {PID} controllers.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 47(2):241--252.
+
+\bibitem[Spong and Vidyasagar, 2008]{spong2008robot}
+Spong, M.~W. and Vidyasagar, M. (2008).
+\newblock {\em Robot dynamics and control}.
+\newblock John Wiley \& Sons.
+
+\bibitem[Tayebi and Mcgilvray, 2006]{Tayebi2006}
+Tayebi, A. and Mcgilvray, S. (2006).
+\newblock Attitude stabilization of a vtol quadrotor aircraft.
+\newblock {\em IEEE Transactions on Control Systems Technology},
+  14(3):562--571.
+
+\bibitem[Toscano, 2005]{toscano2005}
+Toscano, R. (2005).
+\newblock A simple robust {PI/PID} controller design via numerical optimization
+  approach.
+\newblock {\em Journal of process control}, 15:81--88.
+
+\bibitem[Vianna~Raffo, 2007]{raffo2007modelado}
+Vianna~Raffo, G. (2007).
+\newblock Modelado y control de un helic{\'o}ptero quadrotor.
+\newblock Tesis de maestría (magister en automática, robótica y telemática),
+  Universidad de Sevilla, España.
+
+\bibitem[Ziegler and Nichlos, 1942]{Ziegler1942}
+Ziegler, J.~G. and Nichlos, N.~B. (1942).
+\newblock Optimun settings for automatic controllers.
+\newblock {\em Transactions of the {ASME}}, 64:759--768.
+
+\end{thebibliography}
