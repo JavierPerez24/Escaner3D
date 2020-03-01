@@ -138,21 +138,21 @@ void iluminacion()
         inten=Serial.read();
         analogWrite(LED, inten);// Manual
         break;
-  default:
+//  default:
 
-void setupIluminacion()
+//void setupIluminacion()
 //  const int LED=9;
 //  int i;
-  pinMode(LED,OUTPUT);
+//  pinMode(LED,OUTPUT);
 
-  for  (i=255;i>170; i--){
-    analogWrite(LED,i);
-    delay(5);
-  }
-  for  (i=1;i<255; i++){
-  analogWrite(LED,i);
-    }
-}
+//  for  (i=255;i>170; i--){
+//    analogWrite(LED,i);
+//    delay(5);
+//  }
+//  for  (i=1;i<255; i++){
+//  analogWrite(LED,i);
+//    }
+//}
 //void captura()
 //{
 //  Serial.available(){
